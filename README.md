@@ -1,12 +1,12 @@
 
 ````markdown
-# 🔐 Secure Cloud App – Encrypted Login & Registration System
+ 🔐 Secure Cloud App – Encrypted Login & Registration System
 
 A secure and beginner-friendly Flask web application for user **registration and login**, featuring **AES password encryption** and **SQL injection protection**. Designed with a beautiful UI and clean code structure – ideal for learning and showcasing secure web development.
 
 ---
 
-## 💡 Features
+ 💡 Features
 
 - 🔑 **Register & Login** with encrypted credentials
 - 🔒 **AES-256 Encryption** using Python's `cryptography` module
@@ -17,7 +17,7 @@ A secure and beginner-friendly Flask web application for user **registration and
 
 ---
 
-## 🖥️ Screenshots
+ 🖥️ Screenshots
 
 > (📌 Upload screenshots in your repo and link them here)
 - Registration Page  
@@ -27,7 +27,7 @@ A secure and beginner-friendly Flask web application for user **registration and
 
 ---
 
-## 🚀 How to Run Locally
+ 🚀 How to Run Locally
 
 1. **Clone the repo**
 ```bash
