@@ -8,10 +8,10 @@ A secure and beginner-friendly Flask web application for user **registration and
 
  💡 Features
 
-- 🔑 **Register & Login** with encrypted credentials
-- 🔒 **AES-256 Encryption** using Python's `cryptography` module
-- 🛡️ **SQL Injection Protection** via parameterized queries
-- 🎨 **Responsive UI** (purple gradient design, mobile friendly)
+- 🔑 Register & Login with encrypted credentials
+- 🔒 AES-256 Encryption using Python's `cryptography` module
+- 🛡️ SQL Injection Protection via parameterized queries
+- 🎨 Responsive UI (purple gradient design, mobile friendly)
 - 💽 **SQLite** database storage
 - ✨ Easy to understand for students and beginners
 
@@ -19,8 +19,8 @@ A secure and beginner-friendly Flask web application for user **registration and
 
  🖥️ Screenshots
 
-> (📌 Upload screenshots in your repo and link them here)
-- Registration Page  
+
+ 
 - Login Page  : ![image](https://github.com/user-attachments/assets/480a7e18-e64e-4f8b-9464-1bb68e98b964)
 
  
@@ -29,7 +29,7 @@ A secure and beginner-friendly Flask web application for user **registration and
 
  🚀 How to Run Locally
 
-1. **Clone the repo**
+1. Clone the repo
 ```bash
 git clone https://github.com/amnatariq290/Secure-Cloud-App-Encrypted-Login-Registration-with-SQL-Injection-Protection.git
 cd Secure-Cloud-App-Encrypted-Login-Registration-with-SQL-Injection-Protection
