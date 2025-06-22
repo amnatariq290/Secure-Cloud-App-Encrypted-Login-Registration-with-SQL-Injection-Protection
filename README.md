@@ -19,9 +19,10 @@ A secure and beginner-friendly Flask web application for user **registration and
 ## 🖥️ Screenshots
 
 > 
-- Registration Page  
-- Login Page  
-- Success Page  
+
+- Login Page  ![image](https://github.com/user-attachments/assets/c50b2808-8c71-40a9-b677-7d75977f2bc0)
+
+ 
 
 ---
 
@@ -96,19 +97,13 @@ Secure-Cloud-App/
 
 ---
 
-## 📌 Tags
 
-```
-#Python #Flask #Authentication #Encryption #LoginSystem #WebApp #StudentProject #SQLInjectionProtection #SecureLogin #FlaskApp
-```
-
----
 
 ## 👩‍💻 Author
 
 **Amna Tariq**  
 Computer Engineering Student | Python & Front-End Developer  
-🔗 [LinkedIn (optional)](https://www.linkedin.com/in/amna-tariq)
+
 
 ---
 
