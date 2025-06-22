@@ -1,8 +1,6 @@
 
 ````markdown
-<p align="center">
-  <h1><strong>🔐 Secure Cloud App – Encrypted Login & Registration System</strong></h1>
-</p>
+# 🔐 **Secure Cloud App – Encrypted Login & Registration System**
 
 
 A secure and beginner-friendly Flask web application for user **registration and login**, featuring **AES password encryption** and **SQL injection protection**. Designed with a beautiful UI and clean code structure – ideal for learning and showcasing secure web development.
