@@ -114,7 +114,9 @@ Secure-Cloud-App/
 
 **Amna Tariq**
 Computer Engineering Student | Python & Front-End Developer
-🔗 [LinkedIn (optional)](https://www.linkedin.com/in/amna-tariq)
+🔗 [LinkedIn (optional)](www.linkedin.com/in/
+amna-tariq-201253345)
+
 
 ---
 
