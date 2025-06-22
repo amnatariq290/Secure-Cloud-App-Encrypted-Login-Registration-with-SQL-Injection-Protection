@@ -12,7 +12,7 @@ A secure and beginner-friendly Flask web application for user **registration and
 - 🔒 AES-256 Encryption using Python's `cryptography` module
 - 🛡️ SQL Injection Protection via parameterized queries
 - 🎨 Responsive UI (purple gradient design, mobile friendly)
-- 💽 **SQLite** database storage
+- 💽 SQLite database storage
 - ✨ Easy to understand for students and beginners
 
 ---
@@ -90,7 +90,7 @@ Secure-Cloud-App/
 └── README.md
 ```
 
----
+
 
 ## 🛠 Built With
 
@@ -100,15 +100,8 @@ Secure-Cloud-App/
 * Cryptography (Fernet)
 * HTML/CSS
 
----
 
-## 📌 Tags
 
-```
-#Python #Flask #Authentication #Encryption #LoginSystem #WebApp #StudentProject #SQLInjectionProtection #SecureLogin #FlaskApp
-```
-
----
 
 ## 👩‍💻 Author
 
@@ -116,7 +109,7 @@ Secure-Cloud-App/
 Computer Engineering Student | Python & Front-End Developer
 
 
----
+
 
 ## ⭐ Star This Repo
 
